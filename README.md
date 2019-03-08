@@ -1,8 +1,6 @@
 # List of summer schools in machine learning + related fields
 
-NOTE:
-- The schools are arranged in reverse chronogical order by date 
-- Regarding the fee : Usually lower end of the fee is for students while the higher end is for industry folks. Please refer to the individual school website for further details
+- http://mlss.cc/
 
 ## 2019
 
@@ -10,6 +8,7 @@ Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 ------|--|--|---|--|-|-
 |https://www.barcelonagse.eu/study/summer-school/data-science|bercelona |3 weeks July| 1 Apr||
 [Machine Leaning Summer School (MLSS London)](https://sites.google.com/view/mlss-2019)|London, UK|Imperial and University College London|July 15 – July 26| Jan 31|£500-£2500|Travel scholarships for students from developing countries  
+| https://www.ds3-datascience-polytechnique.fr/# ||| ||
 [Gaussian Process and Uncertainty Quantification Summer School](http://gpss.cc/)|Sheffield, UK|University Of Sheffield|Sep 9 - Sep 12|mid-late March|NA|NA
 [Lisbon Machine Learning School (LxMLS 2019)](http://lxmls.it.pt/2019/)|Lisbon, Portugal|Instituto Superior Técnico| July 11 - July 18|March 31|€300-€600|Provide a limited number of scholarships
 [Vision Understanding and Machine Intelligence (VISUM 2019)](http://visum.inesctec.pt)|Porto, Portugal|INESCTEC and Portucalense University Infante D. Henrique|July 4 - July 12|March 22|€100-€700|No
