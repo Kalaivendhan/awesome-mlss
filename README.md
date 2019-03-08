@@ -8,23 +8,16 @@ NOTE:
 
 Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 ------|--|--|---|--|-|-
+|https://www.barcelonagse.eu/study/summer-school/data-science|bercelona |3 weeks July| 1 Apr||
 [Machine Leaning Summer School (MLSS London)](https://sites.google.com/view/mlss-2019)|London, UK|Imperial and University College London|July 15 – July 26| Jan 31|£500-£2500|Travel scholarships for students from developing countries  
 [Gaussian Process and Uncertainty Quantification Summer School](http://gpss.cc/)|Sheffield, UK|University Of Sheffield|Sep 9 - Sep 12|mid-late March|NA|NA
-[Deep Learning in NLP Summer School](https://dlinnlp.github.io/index.html)|Varna, Bulgaria|-|Aug 29 - Aug 30|NA|NA|NA
 [Lisbon Machine Learning School (LxMLS 2019)](http://lxmls.it.pt/2019/)|Lisbon, Portugal|Instituto Superior Técnico| July 11 - July 18|March 31|€300-€600|Provide a limited number of scholarships
 [Vision Understanding and Machine Intelligence (VISUM 2019)](http://visum.inesctec.pt)|Porto, Portugal|INESCTEC and Portucalense University Infante D. Henrique|July 4 - July 12|March 22|€100-€700|No
-[Hellenic Artificial Intelligence Summer School](http://acai2019.tuc.gr/)|Chania, Crete, Greece|EETN, the Hellenic AI Society|July 1 - July 5|NA|€270-€450|Limited financial support for students
-[Reinforcement Learning Summer School](https://project.inria.fr/rlss/)|Lille, France|INRIA Lille|July 1 - July 12|Mar 15|€480-€1920|Master students and applicants from under-represented groups may apply for a discount
 [International Summer School on Deep Learning](http://2019.dl-lab.eu/registration/registration-fee/)|Gdansk, Poland|Politechnika Gdańska|July 1 - July 5|Feb 28|€195-€245|NA
-[Eastern European Machine Learning Summer School](https://www.eeml.eu)|Bucharest, Romania|Politehnica University of Bucharest|July 1 - July 6|March 29|€100-€300|Based on financial considerations
 [Summer School on Intrinsically Motivated Open-Ended Learning](http://www.goal-robots.eu/announcements/events/summer-school-2019-2)|Frankfurt, Germany|Frankfurt Institute for Advanced Studies|June 27 - July 3|Jan 27|NA|NA
 [Natural Language Processing with Deep Learning](https://sites.google.com/view/dlnlp2019/home)|Barcelona, Spain|UPC|June 26 - July 3|NA|NA|NA
 [Deep Learning For Vision](https://telecombcn-dl.github.io/2019-dlcv/)|Barcelona, Spain|UPC|June 25 - July 3|June 10|€429|No (Priority will be given to UPC students for registration)
 [North African Machine Leaning Summer School (NASSMA)](https://nassma.um6p.ma/)|Benguerir, Morocco|UM6P|June 24 - June 29| Mar 15|2000 MAD|Have very limited positions for scholarships, where registration fees can be waived. In very rare cases, can contribute to travel costs
-[Nordic Probabilistic AI School (ProbAI)](https://probabilistic.ai/)|Trondheim, Norway|Norwegian Open AI Lab + Norwegian University of Science and Technology|June 3 - June 7|March 31|€256 - €1024|A limited number of scholarships will be provided.
-[AI and Games Summer School](http://school.gameaibook.org)|New York, USA|Georgios N. Yannakakis and Julian Togelius|May 27 - May 31|NA|NA|NA
-[Deep Learning For Medical Imaging](https://deepimaging2019.sciencesconf.org/)|Lyon, France|INSA Lyon|April 15 - April 19| Feb 20|NA|NA
-[Machine Leaning Summer School (MLSS Stellenbosch)](https://mlssafrica.com/)|Stellenbosch, South Africa|Imperial and University College London|Jan 7 - Jan 18| Nov 16|NA|NA
 
 
 ## 2018
