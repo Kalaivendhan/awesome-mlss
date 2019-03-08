@@ -8,15 +8,9 @@ NOTE:
 
 Name and Link|Location|Organiser|Dates|Deadline|Fee|Aid (Travel Grants etc)
 ------|--|--|---|--|-|-
+[Machine Leaning Summer School (MLSS London)](https://sites.google.com/view/mlss-2019)|London, UK|Imperial and University College London|July 15 – July 26| Jan 31|£500-£2500|Travel scholarships for students from developing countries  
 [Gaussian Process and Uncertainty Quantification Summer School](http://gpss.cc/)|Sheffield, UK|University Of Sheffield|Sep 9 - Sep 12|mid-late March|NA|NA
 [Deep Learning in NLP Summer School](https://dlinnlp.github.io/index.html)|Varna, Bulgaria|-|Aug 29 - Aug 30|NA|NA|NA
-[MLSS Moscow](https://mlss-skoltech.github.io/)|Moscow, Russia|Skolkovo Institute of Science and Technology|Aug 26 - Sep 6|May 6|€400-€1000|Full and partial (25%) stipends will be available to students with a strong profile and in need of financial support
-[Deep\|Bayes Summer School](http://deepbayes.ru/)|Moscow, Russia|Higher School Of Economics|Aug 20 - Aug 25|April 15|(₽1000-₽30000)|Will provide a limited number of travel grants
-[Deep Learning Indaba 2019](http://www.deeplearningindaba.com/indaba-2019.html)|Kenyatta, Kenya|Deep Learning Indaba|Aug 25 - Aug 31|NA|NA|NA
-[Deep Learning and Reinforcement Learning Summer School (DLRL 2019)](https://dlrlsummerschool.ca)|Edmonton, Canada|CIFAR, Alberta|July 24 - Aug 2|Feb 22 (extended)|$685 - $1875 (CAD)|Limited financial support is available for students/postdocs
-[International Summer School on Deep Learning (DeepLearn 2019)](http://deeplearn2019.irdta.eu/)|Warsaw, Poland|IRDTA|July 22 - July 26|March 2 (Early) to On-site|€310-€520|No
-[Machine Leaning Summer School (MLSS London)](https://sites.google.com/view/mlss-2019)|London, UK|Imperial and University College London|July 15 – July 26| Jan 31|£500-£2500|Travel scholarships for students from developing countries
-[2019 Deep Learning Summer School](http://ss.cs.tsinghua.edu.cn/)|Beijing, China|Tsinghua University|July 13 - July 26|April 15|$800|Campus accomodation will be given
 [Lisbon Machine Learning School (LxMLS 2019)](http://lxmls.it.pt/2019/)|Lisbon, Portugal|Instituto Superior Técnico| July 11 - July 18|March 31|€300-€600|Provide a limited number of scholarships
 [Vision Understanding and Machine Intelligence (VISUM 2019)](http://visum.inesctec.pt)|Porto, Portugal|INESCTEC and Portucalense University Infante D. Henrique|July 4 - July 12|March 22|€100-€700|No
 [Hellenic Artificial Intelligence Summer School](http://acai2019.tuc.gr/)|Chania, Crete, Greece|EETN, the Hellenic AI Society|July 1 - July 5|NA|€270-€450|Limited financial support for students
